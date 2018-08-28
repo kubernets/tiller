@@ -1,2 +1,2 @@
-FROM gcr.io/kubernetes-helm/tiller:v2.8.2
-LABEL version="v2.8.2"
+FROM gcr.io/kubernetes-helm/tiller:v2.10.0
+LABEL version="v2.10.0"
